@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product id="PO1">
+        <description>Spring Guru Mug</description>
+        <price>18.949999999999999289457264239899814128875732421875</price>
+        <createdBy>
+            <email>john@springframework.guru</email>
+            <id>10</id>
+            <name>John</name>
+        </createdBy>
+    </product>
+    <product id="PO2">
+        <description>Java</description>
+        <price>1235</price>
+        <createdBy>
+            <email>john@springframework.guru</email>
+            <id>10</id>
+            <name>John</name>
+        </createdBy>
+    </product>
+</products>
